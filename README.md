@@ -1,10 +1,7 @@
 # サウナマップ
 
 個人開発しているサウナマップアプリについて。ファイル内のデモ動画をご覧ください。
-![saunamap_img_1](https://user-images.githubusercontent.com/50776559/205433227-b82993bf-2c88-44e9-9075-b5890fc52793.jpg)
-![saunamap_img_2](https://user-images.githubusercontent.com/50776559/205433233-31e75bc3-a1f7-480b-9608-826d605d5db4.jpg)
-![saunamap_img_3](https://user-images.githubusercontent.com/50776559/205433235-2afab4a9-71ef-4788-9324-2f6a5289767a.png)
-![saunamap_img_4](https://user-images.githubusercontent.com/50776559/205433238-15e606ab-de45-4acc-a07d-a2d9356aba15.png)
+| ![saunamap_img_1](https://user-images.githubusercontent.com/50776559/205433227-b82993bf-2c88-44e9-9075-b5890fc52793.jpg) | ![saunamap_img_2](https://user-images.githubusercontent.com/50776559/205433233-31e75bc3-a1f7-480b-9608-826d605d5db4.jpg) | ![saunamap_img_3](https://user-images.githubusercontent.com/50776559/205433235-2afab4a9-71ef-4788-9324-2f6a5289767a.png) | ![saunamap_img_4](https://user-images.githubusercontent.com/50776559/205433238-15e606ab-de45-4acc-a07d-a2d9356aba15.png) |
 
 
 ## コンセプト
